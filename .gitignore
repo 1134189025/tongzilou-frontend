@@ -1,0 +1,8 @@
+# 只推前端资源，角色卡等不入库
+*.json
+tools/
+*.png
+*.jpg
+*.jpeg
+*.gif
+!部署说明.md
